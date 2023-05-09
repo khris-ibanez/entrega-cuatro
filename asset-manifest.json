@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/entrega-cuatro/static/css/main.01b318d0.css",
+    "main.js": "/entrega-cuatro/static/js/main.55d4a77d.js",
+    "static/js/787.c272c5c8.chunk.js": "/entrega-cuatro/static/js/787.c272c5c8.chunk.js",
+    "index.html": "/entrega-cuatro/index.html",
+    "main.01b318d0.css.map": "/entrega-cuatro/static/css/main.01b318d0.css.map",
+    "main.55d4a77d.js.map": "/entrega-cuatro/static/js/main.55d4a77d.js.map",
+    "787.c272c5c8.chunk.js.map": "/entrega-cuatro/static/js/787.c272c5c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b318d0.css",
+    "static/js/main.55d4a77d.js"
+  ]
+}
